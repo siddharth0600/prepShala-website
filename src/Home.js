@@ -12,39 +12,43 @@ function Home() {
 
       <div className="home__section">
         <Card
-          src="https://a0.muscache.com/im/pictures/eb9c7c6a-ee33-414a-b1ba-14e8860d59b3.jpg?im_w=720"
-          title="Online Experiences"
-          description="Unique activities we can do together, led by a world of hosts."
+          src="https://www.thelawyerportal.com/wp-content/uploads/GettyImages-1069239598.jpg"
+          title="eLecture"
+          description="The feature allow users to manage
+eLectures from YouTube."
         />
         <Card
-          src="https://a0.muscache.com/im/pictures/15159c9c-9cf1-400e-b809-4e13f286fa38.jpg?im_w=720"
-          title="Unique stays"
-          description="Spaces that are more than just a place to sleep."
+          src="https://homebusinessmag.com/wp-content/uploads/2019/07/Depositphotos_29868211_s-2019-e1564169124352.jpg"
+          title="Lakshya"
+          description="This feature will allow users to set and
+monitor their goal."
         />
+
         <Card
-          src="https://a0.muscache.com/im/pictures/fdb46962-10c1-45fc-a228-d0b055411448.jpg?im_w=720"
-          title="Entire homes"
-          description="Comfortable private places, with room for friends or family."
+          src="https://learnenglishteens.britishcouncil.org/sites/teens/files/rs261_157781379-low.jpg"
+          title="MyNotes"
+          description="The feature will allow users to store,
+collaborate and manages notes."
         />
       </div>
       <div className="home__section">
         <Card
-          src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
-          title="3 Bedroom Flat in Bournemouth"
-          description="Superhost with a stunning view of the beachside in Sunny Bournemouth"
-          price="£130/night"
+          src="https://www.callcentrehelper.com/images/stories/2008/06/many-people-chatting-760.jpg"
+          title="Group Study"
+          description="An interface for doing group study by
+remotely authenticating and sharing screen."
         />
         <Card
-          src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
-          title="Penthouse in London"
-          description="Enjoy the amazing sights of London with this stunning penthouse"
-          price="£350/night"
+          src="https://blog.hubspot.de/hubfs/Germany/Blog_images/to-do-listen-apps.png"
+          title="ToDo"
+          description="This feature will allow the users to
+schedule and manage their tasks to be accomplished."
         />
         <Card
-          src="https://media.nomadicmatt.com/2018/apartment.jpg"
-          title="1 Bedroom apartment"
-          description="Superhost with great amenities and a fabolous shopping complex nearby"
-          price="£70/night"
+          src="https://www.vervelogic.com/images/vl-page/vl-chat-application/vl-chat-application.png"
+          title="Edu-Chat"
+          description="Portal to communicate with
+teammates for education purposes."
         />
       </div>
     </div>

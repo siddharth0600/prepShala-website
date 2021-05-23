@@ -12,9 +12,9 @@ function App() {
         <Header />
 
         <Switch>
-          <Route path="/search">
+          {/* <Route path="/search">
             <SearchPage />
-          </Route>
+          </Route> */}
 
           <Route path="/">
             {/* Home route should always be at the bottom */}

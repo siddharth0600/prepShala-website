@@ -4,8 +4,8 @@ import "./Footer.css";
 function Footer() {
   return (
     <div className="footer">
-      <p>© 2020 Airbnb Clone! No rights reserved - this is a demo!</p>
-      <p>Privacy · Terms · Sitemap · Comapny Details</p>
+      <p>© 2020 prepShala All Rights Reserved</p>
+      <p>Privacy · Terms · Sitemap · Company Details</p>
     </div>
   );
 }
